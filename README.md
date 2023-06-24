@@ -1,2 +1,2 @@
 # Blossom-Bubble
-Task
+Task for one of the internships I applied
